@@ -201,6 +201,7 @@ ol#kc-totp-settings {
 
 ul#kc-totp-supported-apps {
     margin-bottom: 10px;
+    color: #72767b;
 }
 
 #kc-totp-secret-qr-code {
